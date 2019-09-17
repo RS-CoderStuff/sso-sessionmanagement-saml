@@ -1,0 +1,8 @@
+com\sessionmanagement\saml\bean\User.class
+com\sessionmanagement\saml\sso\SSOConfigurationReader.class
+com\sessionmanagement\saml\sso\AuthNRequestBuilder.class
+com\sessionmanagement\saml\sso\SSOLoginService.class
+com\sessionmanagement\saml\SessionManagementApplication.class
+com\sessionmanagement\saml\utils\Constants.class
+com\sessionmanagement\saml\controller\SSOSamlController.class
+com\sessionmanagement\saml\config\SamlPropertyConfig.class

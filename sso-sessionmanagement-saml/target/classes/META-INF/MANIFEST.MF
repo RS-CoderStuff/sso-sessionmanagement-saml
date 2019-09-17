@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: sso-sessionmanagement-saml
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ravinder Singh
+Implementation-Vendor-Id: com.sessionmanagement.saml
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/sso-sessionm
+ anagement-saml/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
